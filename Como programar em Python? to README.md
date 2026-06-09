@@ -1,5 +1,7 @@
 # 🐍 Python do Zero à Memória: Guia de Aprendizado Inteligente
 
+[![Acessar NotebookLM](https://shields.io)](https://google.com)
+
 > Um guia abrangente e didático sobre a linguagem de programação Python, que une conceitos avançados de gerenciamento de memória da versão 3.14 a um roteiro estruturado para quem está aprendendo a programar do absoluto zero.
 
 Este projeto foi estruturado, sintetizado e documentado com o auxílio do **Google NotebookLM**, funcionando como uma central de estudos para consolidar a lógica de programação e a arquitetura interna da linguagem.
