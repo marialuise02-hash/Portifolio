@@ -1,4 +1,4 @@
-# 🐍 Python do Zero à Memória: Guia de Aprendizado Inteligente
+# 🐍 Python do Zero ao Avançado: Guia de Aprendizado Inteligente
 
 [![Acessar NotebookLM](https://shields.io)](https://notebooklm.google.com/notebook/ef42a57f-6aa5-4525-8dab-4664da720817)
 
