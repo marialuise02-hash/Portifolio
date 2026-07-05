@@ -1,4 +1,4 @@
-# 🛡️ Detecção de Fraude em Cartões de Crédito com IA
+# 🛡️ Detecção de Fraude em Cartões de Crédito
 
 Este projeto foi desenvolvido como parte do meu aprendizado no **Bootcamp Afya - Automação de Dados com IA**, na plataforma DIO. O objetivo principal é construir e avaliar modelos de Machine Learning capazes de identificar transações fraudulentas em cartões de crédito, lidando com o desafio de bases de dados altamente desbalanceadas. O código foi feito 100% pelas aulas da tutora.
 
